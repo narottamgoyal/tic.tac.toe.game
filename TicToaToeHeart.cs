@@ -4,7 +4,7 @@
     // -------------
     //  D  | E  | F
     // -------------
-    //  G  | H  |I
+    //  G  | H  | I
     class Token
     {
         public static string[] Strike = { "ABC", "DEF", "GHI", "ADG", "BEH", "CFI", "CEG", "AEI" };
